@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Camiseta Ruge 2022",
+        "img": "../img/Titular.png",
+        "precio": 12000
+    },
+    {
+        "nombre": "Camiseta Suplente Ruge 2022",
+        "img": "../img/Suplente.png",
+        "precio": 11000
+    },
+    {
+        "nombre": "Camiseta Alternativa Ruge 2022",
+        "img": "../img/Alternativa.png",
+        "precio": 10000
+    },
+    {
+        "nombre": "Camiseta Arquero Ruge 2022",
+        "img": "../img/Arquero.png",
+        "precio": 9000
+    },
+    {
+        "nombre": "Campera Ruge",
+        "img": "../img/campera.png",
+        "precio": 9000
+    },
+    {
+        "nombre": "Camperon Ruge",
+        "img": "../img/Camperon1.png",
+        "precio": 14000
+    },
+    {
+        "nombre": "Short Ruge",
+        "img": "../img/short.png",
+        "precio": 6500
+    },
+    {
+        "nombre": "Medias Ruge",
+        "img": "../img/Medias.png",
+        "precio": 2500
+    }
+]
